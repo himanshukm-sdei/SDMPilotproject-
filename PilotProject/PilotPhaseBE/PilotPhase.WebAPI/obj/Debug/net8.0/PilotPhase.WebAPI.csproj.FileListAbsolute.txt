@@ -1,0 +1,348 @@
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.exe
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.deps.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.runtimeconfig.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\DnsClient.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\SharpCompress.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Snappier.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.AssemblyReference.cache
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfoInputs.cache
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfo.cs
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.CoreCompileInputs.cache
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PilotPhase.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\scopedcss\bundle\PilotPhase.WebAPI.styles.css
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPha.807EA069.Up2Date
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\refint\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.genruntimeconfig.cache
+D:\VS\Projects\GDPR\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\ref\PilotPhase.WebAPI.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.AssemblyReference.cache
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfoInputs.cache
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfo.cs
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.CoreCompileInputs.cache
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.exe
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.deps.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.runtimeconfig.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\DnsClient.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\SharpCompress.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Snappier.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\ZstdSharp.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PilotPhase.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PilotPhase.WebAPI.props
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PilotPhase.WebAPI.props
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PilotPhase.WebAPI.props
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\scopedcss\bundle\PilotPhase.WebAPI.styles.css
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPha.807EA069.Up2Date
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\refint\PilotPhase.WebAPI.dll
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.pdb
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.genruntimeconfig.cache
+F:\Project\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\ref\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.exe
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.deps.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.runtimeconfig.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\DnsClient.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\SharpCompress.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Snappier.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.AssemblyReference.cache
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfoInputs.cache
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfo.cs
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.CoreCompileInputs.cache
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PilotPhase.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\scopedcss\bundle\PilotPhase.WebAPI.styles.css
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPha.807EA069.Up2Date
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\refint\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.genruntimeconfig.cache
+D:\VS\Projects\GDPR\Latest\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\ref\PilotPhase.WebAPI.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.AssemblyReference.cache
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfoInputs.cache
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfo.cs
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\refint\PilotPhase.WebAPI.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.exe
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.deps.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.runtimeconfig.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.dll
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.pdb
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PilotPhase.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PilotPhase.WebAPI.props
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PilotPhase.WebAPI.props
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PilotPhase.WebAPI.props
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\scopedcss\bundle\PilotPhase.WebAPI.styles.css
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPha.807EA069.Up2Date
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.genruntimeconfig.cache
+C:\Users\arvind.kanswal\Desktop\LatestBackendCode\LatestBackendCode\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\ref\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.exe
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.deps.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.runtimeconfig.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\DnsClient.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\SharpCompress.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Snappier.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.AssemblyReference.cache
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfoInputs.cache
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfo.cs
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.CoreCompileInputs.cache
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PilotPhase.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PilotPhase.WebAPI.props
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\scopedcss\bundle\PilotPhase.WebAPI.styles.css
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPha.807EA069.Up2Date
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\refint\PilotPhase.WebAPI.dll
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.genruntimeconfig.cache
+D:\VS\Projects\GDPR\Final\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\ref\PilotPhase.WebAPI.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.exe
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.deps.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.runtimeconfig.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\DnsClient.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\SharpCompress.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Snappier.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\ZstdSharp.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Application.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Infrastructure.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Domain.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.DTO.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\bin\Debug\net8.0\PilotPhase.Shared.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.AssemblyReference.cache
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfoInputs.cache
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.AssemblyInfo.cs
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.csproj.CoreCompileInputs.cache
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.PilotPhase.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PilotPhase.WebAPI.props
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PilotPhase.WebAPI.props
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PilotPhase.WebAPI.props
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\scopedcss\bundle\PilotPhase.WebAPI.styles.css
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPha.807EA069.Up2Date
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\refint\PilotPhase.WebAPI.dll
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.pdb
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\PilotPhase.WebAPI.genruntimeconfig.cache
+D:\Final Backend Code\Final Backend Code\PilotPhase\PilotPhase.WebAPI\obj\Debug\net8.0\ref\PilotPhase.WebAPI.dll

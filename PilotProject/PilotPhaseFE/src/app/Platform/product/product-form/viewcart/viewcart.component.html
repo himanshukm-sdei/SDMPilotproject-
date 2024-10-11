@@ -1,0 +1,64 @@
+<!-- <mat-toolbar color="primary" class="toolbar"> 
+    <span class="title">SmartData Pilot Project</span>
+</mat-toolbar> -->
+<mat-toolbar color="primary" class="toolbar">
+    <button mat-icon-button aria-label="User menu icon">
+      <mat-icon>supervised_user_circle</mat-icon>
+    </button>
+    
+    <span class="title">smartData Pilot Project</span>
+    <span class="spacer"></span>
+  
+  </mat-toolbar>
+  
+<div class="container">
+     
+
+    <div class="product-wrapper">
+        <h2 class="product-heading">Product Details</h2>
+
+        <hr>
+        <div class="product-detail" *ngFor="let item of getSortedProductKeys()">
+
+            <div class="product-detail-items">
+                {{ item.key }}
+            </div>
+            <div class="product-detail-value" *ngIf="item.key !== 'Price'" >{{ item.value }}</div>
+            <div class="product-detail-value" *ngIf="item.key === 'Price'"  >${{ item.value }}</div>
+            <div class="product-detail-value" *ngIf="item.key == 'Description'">{{ item.value }}</div>
+            <!-- <div  class="product-detail-value" *ngIf="item.key !== 'Description'">{{ item.value }}</div> -->
+        </div>
+
+        <div class="product-footer product-detail">
+            <!-- <p class="total-quantity">Total quantity: 6</p> -->
+            <form action="">
+                <div class="form-block">
+                    <div class="form-items">
+                        <label for="quantity" class="product-detail-items">Qty.</label> <br>
+                        <input 
+                        type="number" 
+                        class="product-detail-value" 
+                        name="quantity" 
+                        [(ngModel)]="quantity" 
+                        min="1"                    
+                        max="10"                   
+                        required                   
+                        (input)="onInput($event)"   
+                    />
+                    <div *ngIf="quantity < 1 || quantity > 99" class="error-message">
+                        Quantity must be between 1 and 99.
+                    </div>
+                       
+                    </div>
+                    <div class="form-items">
+                       <p class="qty-value"><span class="total-price" >Total Price :</span> {{quantity * productprice |currency}}</p>
+                    </div>
+                    
+                </div>
+            </form>
+            <div class="product-action-btn">
+                <button class="pay-now">Pay Now</button>
+            </div>
+        </div>
+    </div>
+</div>

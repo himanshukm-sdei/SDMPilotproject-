@@ -1,0 +1,8 @@
+::ng-deep .mat-mdc-dialog-inner-container.mdc-dialog__container{
+    max-height: 500px;
+    justify-content: center;
+}
+ 
+::ng-deep .mat-mdc-dialog-surface.mdc-dialog__surface {
+top:10%;
+}

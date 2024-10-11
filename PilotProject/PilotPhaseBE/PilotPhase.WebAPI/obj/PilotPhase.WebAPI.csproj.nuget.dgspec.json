@@ -1,0 +1,465 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.WebAPI\\PilotPhase.WebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Application\\PilotPhase.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Application\\PilotPhase.Application.csproj",
+        "projectName": "PilotPhase.Application",
+        "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Application\\PilotPhase.Application.csproj",
+        "packagesPath": "C:\\Users\\arvind.kanswal\\.nuget\\packages\\",
+        "outputPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arvind.kanswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj"
+              },
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.DTO\\PilotPhase.DTO.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.DTO\\PilotPhase.DTO.csproj"
+              },
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj",
+        "projectName": "PilotPhase.Domain",
+        "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj",
+        "packagesPath": "C:\\Users\\arvind.kanswal\\.nuget\\packages\\",
+        "outputPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arvind.kanswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.29.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.DTO\\PilotPhase.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.DTO\\PilotPhase.DTO.csproj",
+        "projectName": "PilotPhase.DTO",
+        "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.DTO\\PilotPhase.DTO.csproj",
+        "packagesPath": "C:\\Users\\arvind.kanswal\\.nuget\\packages\\",
+        "outputPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arvind.kanswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj",
+        "projectName": "PilotPhase.Infrastructure",
+        "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\arvind.kanswal\\.nuget\\packages\\",
+        "outputPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arvind.kanswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Domain\\PilotPhase.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.29.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj",
+        "projectName": "PilotPhase.Shared",
+        "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj",
+        "packagesPath": "C:\\Users\\arvind.kanswal\\.nuget\\packages\\",
+        "outputPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arvind.kanswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.WebAPI\\PilotPhase.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.WebAPI\\PilotPhase.WebAPI.csproj",
+        "projectName": "PilotPhase.WebAPI",
+        "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.WebAPI\\PilotPhase.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\arvind.kanswal\\.nuget\\packages\\",
+        "outputPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arvind.kanswal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Application\\PilotPhase.Application.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Application\\PilotPhase.Application.csproj"
+              },
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Infrastructure\\PilotPhase.Infrastructure.csproj"
+              },
+              "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj": {
+                "projectPath": "D:\\Final Backend Code\\Final Backend Code\\PilotPhase\\PilotPhase.Shared\\PilotPhase.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

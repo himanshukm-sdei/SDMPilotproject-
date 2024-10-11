@@ -1,0 +1,28 @@
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.exe
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.deps.json
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.runtimeconfig.json
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.dll
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.pdb
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.AssemblyInfoInputs.cache
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.AssemblyInfo.cs
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.csproj.CoreCompileInputs.cache
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.dll
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\refint\EvaluateBinaryStrings.dll
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.pdb
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.genruntimeconfig.cache
+D:\Arvind\Visual Studio\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\ref\EvaluateBinaryStrings.dll
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.exe
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.deps.json
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.runtimeconfig.json
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.dll
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\bin\Debug\net6.0\EvaluateBinaryStrings.pdb
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.AssemblyInfoInputs.cache
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.AssemblyInfo.cs
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.csproj.CoreCompileInputs.cache
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.dll
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\refint\EvaluateBinaryStrings.dll
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.pdb
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\EvaluateBinaryStrings.genruntimeconfig.cache
+D:\VS\Projects\GDPR\EvaluateBinaryStrings\EvaluateBinaryStrings\obj\Debug\net6.0\ref\EvaluateBinaryStrings.dll

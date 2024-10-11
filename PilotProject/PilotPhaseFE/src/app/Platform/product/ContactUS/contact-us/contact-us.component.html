@@ -1,0 +1,57 @@
+<mat-toolbar color="primary" class="toolbar">
+  <button mat-icon-button aria-label="User menu icon">
+    <mat-icon>supervised_user_circle</mat-icon>
+  </button>
+  <span class="title">SmartData Pilot Project</span>
+  <span class="spacer"></span>
+  <button mat-raised-button color="warn" (click)="addProduct()">View Product</button>
+</mat-toolbar>
+<div class="container">
+  <div class="container-wrapper">
+    <h2>Contact Us</h2>
+    <form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+      <mat-form-field appearance="fill" class="form-field">
+        <mat-label>Name</mat-label>
+        <input matInput formControlName="name" />
+        <mat-error *ngIf="contactForm.get('name')?.invalid && contactForm.get('name')?.touched">
+          Name is required.
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="form-field">
+        <mat-label>Email</mat-label>
+        <input matInput formControlName="email" />
+        <mat-error *ngIf="contactForm.get('email')?.invalid && contactForm.get('email')?.touched">
+          Valid email is required.
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="form-field">
+        <mat-label>Message</mat-label>
+        <textarea matInput formControlName="message"></textarea>
+        <mat-error *ngIf="contactForm.get('message')?.invalid && contactForm.get('message')?.touched">
+          Message must be at least 10 characters.
+        </mat-error>
+      </mat-form-field>
+      <mat-checkbox (click)="openPrivacyPolicy($event)" formControlName="readChecked">
+        Click to read privacy policy
+      </mat-checkbox>
+
+      <mat-checkbox formControlName="consent">
+        I consent to have my data processed according to the Privacy Policy.
+      </mat-checkbox>
+      <mat-checkbox formControlName="datadelectionconsent">
+        Are you sure you want to delete your data after 2 months
+      </mat-checkbox>
+      <mat-error *ngIf="contactForm.get('consent')?.invalid && contactForm.get('consent')?.touched">
+        Consent is required.
+      </mat-error>
+
+      <br/> <br/>
+      <div class="submitbtn" style="text-align: right;">
+        <button mat-raised-button color="primary" [disabled]="contactForm.invalid">Submit</button>
+      </div>
+
+    </form>
+  </div>
+</div>

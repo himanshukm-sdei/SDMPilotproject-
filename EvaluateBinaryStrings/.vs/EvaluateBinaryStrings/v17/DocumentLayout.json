@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FEF01-F315-40FF-8FED-D239A5087C3E}|BinaryStringEvaluatorTestProject\\BinaryStringEvaluatorTestProject.csproj|d:\\vs\\projects\\gdpr\\evaluatebinarystrings\\binarystringevaluatortestproject\\binarystringevaluatorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3FEF01-F315-40FF-8FED-D239A5087C3E}|BinaryStringEvaluatorTestProject\\BinaryStringEvaluatorTestProject.csproj|solutionrelative:binarystringevaluatortestproject\\binarystringevaluatorunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|d:\\vs\\projects\\gdpr\\evaluatebinarystrings\\evaluatebinarystrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|solutionrelative:evaluatebinarystrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|d:\\vs\\projects\\gdpr\\evaluatebinarystrings\\evaluatebinarystrings\\evaluatebinarystrings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|solutionrelative:evaluatebinarystrings\\evaluatebinarystrings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|d:\\vs\\projects\\gdpr\\evaluatebinarystrings\\evaluatebinarystrings\\binarystringevalutorservice\\binarystringevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|solutionrelative:evaluatebinarystrings\\binarystringevalutorservice\\binarystringevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|d:\\vs\\projects\\gdpr\\evaluatebinarystrings\\evaluatebinarystrings\\constants\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DFD558-6F2E-4890-B2DF-2D0343049480}|EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj|solutionrelative:evaluatebinarystrings\\constants\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvaluateBinaryStrings",
+              "DocumentMoniker": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj",
+              "RelativeDocumentMoniker": "EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj",
+              "ToolTip": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj",
+              "RelativeToolTip": "EvaluateBinaryStrings\\EvaluateBinaryStrings.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T09:20:11.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\Constants\\Message.cs",
+              "RelativeDocumentMoniker": "EvaluateBinaryStrings\\Constants\\Message.cs",
+              "ToolTip": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\Constants\\Message.cs",
+              "RelativeToolTip": "EvaluateBinaryStrings\\Constants\\Message.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:57:27.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryStringEvaluatorUnitTest.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\BinaryStringEvaluatorTestProject\\BinaryStringEvaluatorUnitTest.cs",
+              "RelativeDocumentMoniker": "BinaryStringEvaluatorTestProject\\BinaryStringEvaluatorUnitTest.cs",
+              "ToolTip": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\BinaryStringEvaluatorTestProject\\BinaryStringEvaluatorUnitTest.cs",
+              "RelativeToolTip": "BinaryStringEvaluatorTestProject\\BinaryStringEvaluatorUnitTest.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:26:59.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinaryStringEvaluator.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\BinaryStringEvalutorService\\BinaryStringEvaluator.cs",
+              "RelativeDocumentMoniker": "EvaluateBinaryStrings\\BinaryStringEvalutorService\\BinaryStringEvaluator.cs",
+              "ToolTip": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\BinaryStringEvalutorService\\BinaryStringEvaluator.cs",
+              "RelativeToolTip": "EvaluateBinaryStrings\\BinaryStringEvalutorService\\BinaryStringEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:53:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\Program.cs",
+              "RelativeDocumentMoniker": "EvaluateBinaryStrings\\Program.cs",
+              "ToolTip": "D:\\VS\\Projects\\GDPR\\EvaluateBinaryStrings\\EvaluateBinaryStrings\\Program.cs",
+              "RelativeToolTip": "EvaluateBinaryStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:53:19.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

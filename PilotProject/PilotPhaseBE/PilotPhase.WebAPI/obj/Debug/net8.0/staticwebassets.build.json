@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NtCZJeqZX1OF0wLr37nbEcF+wtyGz2U6vwYXMO5n9qc=",
+  "Source": "PilotPhase.WebAPI",
+  "BasePath": "_content/PilotPhase.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

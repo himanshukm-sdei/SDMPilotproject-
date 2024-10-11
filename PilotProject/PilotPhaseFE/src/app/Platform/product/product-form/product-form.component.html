@@ -1,0 +1,58 @@
+<!-- product.component.html -->
+<div class="product-form-container">
+  <h2 style="text-align: left;">{{_data!=null?'Update Product':'Add Product'}}</h2>
+
+  <form [formGroup]="productForm"  >
+    <div class="product-form-wrapper">
+      <div class="product-form-fullwidth-items">
+        <mat-form-field appearance="fill" class="form-field">
+          <mat-label>Name</mat-label>
+          <input matInput formControlName="name" />
+          <mat-error *ngIf="productForm.get('name')?.invalid && productForm.get('name')?.touched">
+            Name is required.
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+
+      <div class="product-form-inner-items">
+        <mat-form-field appearance="fill" class="form-field">
+          <mat-label>Category</mat-label>
+          <input matInput formControlName="category" />
+          <mat-error *ngIf="productForm.get('category')?.invalid && productForm.get('category')?.touched">
+            Category is required.
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="product-form-inner-items">
+        <mat-form-field appearance="fill" class="form-field">
+          <mat-label>Price</mat-label>
+          <input matInput type="number" formControlName="price" />
+          <mat-error *ngIf="productForm.get('price')?.invalid && productForm.get('price')?.touched">
+            Invalid price .
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <div class="product-form-fullwidth-items">
+        <mat-form-field appearance="fill" class="form-field">
+          <mat-label>Description</mat-label>
+          <textarea matInput formControlName="description"></textarea>
+          <mat-error *ngIf="productForm.get('description')?.invalid && productForm.get('description')?.touched">
+            Description is required.
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+
+
+
+
+    </div>
+    <div class="product-form-action-btns">
+      <button mat-raised-button color="primary" [disabled]="productForm.invalid" (click)="onSubmit()">Submit</button>
+      <button mat-raised-button color="cancel" class="cancel-btn"   (click)="onCancel()">Cancel</button>
+    </div>
+  </form>
+
+</div>
