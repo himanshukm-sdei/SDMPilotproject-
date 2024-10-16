@@ -38,7 +38,10 @@ This repository contains a full-stack web application built using Angular (Front
 
 ### 7. Redux on Product Cart Page
 ![Redux Implementation](screenshots/redux-implementation-page.jpg)
+
 ![Redux on Product Cart Page](screenshots/redux-implementation-product-cart-page.jpg)
+
+![Redux Cart page](screenshots/redux-cart-page.jpg) 
 
 ### 8. Contact Us Form (GDPR Compliant)
 ![Contact Us Form](screenshots/contact-us.jpg)
